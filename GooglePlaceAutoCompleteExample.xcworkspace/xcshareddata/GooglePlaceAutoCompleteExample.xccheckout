@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>ECE16F2B-F9F0-4D56-BD7F-D30AE515096C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GooglePlaceAutoCompleteExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A131EE05117316352053A8DCFD5FEDCD61AD50B</key>
+		<string>https://github.com/JxianMa/GooglePlacesAutoCompleteExecution</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GooglePlaceAutoCompleteExample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A131EE05117316352053A8DCFD5FEDCD61AD50B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JxianMa/GooglePlacesAutoCompleteExecution</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A131EE05117316352053A8DCFD5FEDCD61AD50B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A131EE05117316352053A8DCFD5FEDCD61AD50B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GooglePlaceAutoCompleteExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>

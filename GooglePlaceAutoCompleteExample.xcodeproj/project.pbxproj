@@ -47,6 +47,7 @@
 		25C388B61B98A26B00908193 /* GoogleAutoCompletePlaces.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GoogleAutoCompletePlaces.m; sourceTree = "<group>"; };
 		25C388B81B98AC6B00908193 /* PlacePickViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlacePickViewController.h; sourceTree = "<group>"; };
 		25C388B91B98AC6B00908193 /* PlacePickViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlacePickViewController.m; sourceTree = "<group>"; };
+		25C388BB1B98D70900908193 /* GoogleAPIKey.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GoogleAPIKey.h; sourceTree = "<group>"; };
 		31B9962307A3DC3ED3B9A426 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		4C2305ED023B3B536CE77524 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		5438F6900034423A00C991C3 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 		25C3888E1B98A18D00908193 /* GooglePlaceAutoCompleteExample */ = {
 			isa = PBXGroup;
 			children = (
+				25C388BB1B98D70900908193 /* GoogleAPIKey.h */,
 				25C388B51B98A26B00908193 /* GoogleAutoCompletePlaces.h */,
 				25C388B61B98A26B00908193 /* GoogleAutoCompletePlaces.m */,
 				25C388B81B98AC6B00908193 /* PlacePickViewController.h */,

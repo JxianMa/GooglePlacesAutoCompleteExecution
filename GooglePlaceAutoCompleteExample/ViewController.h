@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "PlacePickViewController.h"
 #import "GoogleAutoCompletePlaces.h"
+#import "GoogleAPIKey.h"
 
 @protocol PlacePickDelegate;
 @interface ViewController : UIViewController

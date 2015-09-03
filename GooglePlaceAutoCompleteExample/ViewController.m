@@ -8,8 +8,6 @@
 
 #import "ViewController.h"
 
-static NSString *googleAPIkey = @"Please Type in Your Google API Key Here.";
-
 @interface ViewController ()<UITextViewDelegate, UITableViewDataSource>
 @property (weak, nonatomic) IBOutlet UITextField *cityNameTextField;
 @property (weak, nonatomic) IBOutlet UITableView *tableView;
@@ -61,6 +59,9 @@ static NSString *googleAPIkey = @"Please Type in Your Google API Key Here.";
 - (void)placePickerRequestWithInput:(NSString *)input
 {
     GoogleAutoCompletePlaces *autoCompleteRequest = [[GoogleAutoCompletePlaces alloc]init];
+    
+    // Parameters can be changed according to Google's documentations, you need to include your google api key as a parameter before sending request.
+    
     NSDictionary *parameters = @{@"types":@"(cities)",@"sensor":@"false",@"key":googleAPIkey, @"input":input};
     [autoCompleteRequest getGeoLocationWithParameters:parameters outPutWithBlock:^(NSArray *geolocationArrray, NSError *error) {
         if (!error) {
