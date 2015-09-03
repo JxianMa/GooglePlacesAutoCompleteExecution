@@ -14,3 +14,5 @@ This link offers the approach to download AFNetworking and integrate into your p
 4. Download this project, model of implementing google places autocomplete is inside Class folder. There's also an example to show you how to use this class.
 
 5. In order to run example app and test your google developer api key, please first go to GoogleAPIKey.h file and type in your own google api key.
+
+Hint: You may want to customize your places autocomplete request, in order to do that, you can change the "parameters" in the request. You have to include yoru google api key inside request parameter, otherwise you would not get any result. This link describes how to set parameters of your request: https://developers.google.com/places/web-service/autocomplete
